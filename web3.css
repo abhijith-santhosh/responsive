@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+  
+/* navbar */
+  
+.navbar-nav{
+    margin-right: 0 !important;
+    padding-right: 100px;
+}
+  
+.navbar{
+    background-color:white;
+    color:#0a193d !important;
+}
+  
+.nav-item a{
+    color:#0a193d !important;
+    font-weight: 10px;
+    text-align: center;
+}
+  
+.nav-item{
+    padding-left: 2px;
+}
+  
+.navbar-brand{
+    color: white !important;
+    padding-left: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.onam
+{
+    width: 100%;
+}
+  
+#navbar button{
+    color: white !important;
+}
+  
+/* banner */
+  
+#banner-container{
+    background-color: #0a193d;
+    color: white !important;
+    padding-top: 20px;
+    padding-bottom: 30px;
+      
+}
+  
+#banner-row img{
+    max-width: 1400px;
+    height: auto;
+    display: block;
+}
+  
+#banner-row h3, p{
+    text-align: center;
+}
+  
+#banner-col{
+    padding-left: 10px;
+}
+
+
+.img1, .img2, .img3, .img4, .img5
+{
+    width: 70%;
+    cursor: pointer;
+}
+
+
+
+/* service */
+#service{
+    padding-top: 80px;
+    padding-bottom: 80px;
+
+}
+
+#service-container
+{
+    margin-left: 135px;
+}  
+
+
+
+#service h1{
+    padding-bottom: 70px;
+}
+  
+
+  
+#social{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+  
+#social h1{
+    padding-bottom: 70px;
+}
+  
+  
+#social-row{
+    flex-direction: row;
+}
+  
+
+
+#banner-container{
+    background-color:white;
+    color:#0a193d !important;
+}
+
+/* footer */
+  
+.mb-3{
+  padding-top: 10px;
+}
+  
+  
